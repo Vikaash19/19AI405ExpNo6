@@ -101,7 +101,7 @@ def minimax(game)
         return scores[min_score_index]
     end
 end
-## program
+## Program
 ```
 import time
 class Game:
